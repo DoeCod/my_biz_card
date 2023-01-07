@@ -1,4 +1,5 @@
-import 'package:biz_card_2/components/iconContent.dart';
+import 'package'
+    ':biz_card_2/components/iconContent.dart';
 import 'package:biz_card_2/components/myContainerInfo.dart';
 import 'package:flutter/material.dart';
 import 'package:biz_card_2/components/qrContainer.dart';
